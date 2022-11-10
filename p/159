@@ -49,11 +49,11 @@
 	<body>
 		<div class="A">
 			<p>访客 Vistor&emsp;&emsp;&emsp;&emsp;</p>
-			<img src="https://github.com/201185521/201185521.github.io/blob/365b41b792bc287c2149666a91bbc9575b896a5a/p/1.png"/>
+			<img src="1.png"/>
 		</div>
 		<div class="B">
 			<p>学生 Student&emsp;&emsp;&emsp;&emsp;</p>
-			<img src="https://github.com/201185521/201185521.github.io/blob/365b41b792bc287c2149666a91bbc9575b896a5a/p/2.png">
+			<img src="2.png">
 		</div>
 	</body>
 </html>
